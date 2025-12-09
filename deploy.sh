@@ -11,7 +11,7 @@ REPO_URL="https://github.com/santpati/spaces-wifi7-deployment-visualizer.git"
 SSH_KEY="/Users/santpati/Desktop/Folders/AI/Santosh-Demo.pem"
 EC2_HOST="ec2-user@ec2-3-236-4-188.compute-1.amazonaws.com"
 REMOTE_DIR="/home/ec2-user/spaces-wifi7-dashboard"
-PORT=8000
+PORT=8082
 
 # Colors for output
 GREEN='\033[0;32m'
@@ -98,9 +98,9 @@ chmod 400 "$SSH_KEY"
 
 # Create deployment commands
 DEPLOY_COMMANDS=$(cat << 'EOF'
-# Stop existing server on port 8000 if running
-echo "Stopping existing server on port 8000..."
-pkill -f "python.*http.server.*8000" 2>/dev/null || true
+# Stop existing server on port 8082 if running
+echo "Stopping existing server on port 8082..."
+pkill -f "python.*http.server.*8082" 2>/dev/null || true
 sleep 1
 
 # Create directory if not exists
@@ -120,16 +120,16 @@ else
     cd spaces-wifi7-dashboard
 fi
 
-# Start HTTP server on port 8000 in background
-echo "Starting HTTP server on port 8000..."
-nohup python3 -m http.server 8000 > /tmp/wifi7-dashboard.log 2>&1 &
+# Start HTTP server on port 8082 in background
+echo "Starting HTTP server on port 8082..."
+nohup python3 -m http.server 8082 > /tmp/wifi7-dashboard.log 2>&1 &
 sleep 2
 
 # Verify server is running
-if curl -s http://localhost:8000 > /dev/null; then
-    echo "✓ Server is running on port 8000"
+if curl -s http://localhost:8082 > /dev/null; then
+    echo "✓ Server is running on port 8082"
     PUBLIC_IP=$(curl -s http://169.254.169.254/latest/meta-data/public-ipv4 2>/dev/null || echo "ec2-3-236-4-188.compute-1.amazonaws.com")
-    echo "Dashboard URL: http://$PUBLIC_IP:8000"
+    echo "Dashboard URL: http://$PUBLIC_IP:8082"
 else
     echo "WARNING: Server may not have started correctly"
     cat /tmp/wifi7-dashboard.log
@@ -143,6 +143,6 @@ ssh -i "$SSH_KEY" -o StrictHostKeyChecking=no "$EC2_HOST" "$DEPLOY_COMMANDS"
 echo -e "\n${GREEN}========================================${NC}"
 echo -e "${GREEN}  Deployment Complete!${NC}"
 echo -e "${GREEN}========================================${NC}"
-echo -e "Dashboard: ${BLUE}http://ec2-3-236-4-188.compute-1.amazonaws.com:8000${NC}"
+echo -e "Dashboard: ${BLUE}http://ec2-3-236-4-188.compute-1.amazonaws.com:8082${NC}"
 echo -e "GitHub:    ${BLUE}https://github.com/santpati/spaces-wifi7-deployment-visualizer${NC}"
 
