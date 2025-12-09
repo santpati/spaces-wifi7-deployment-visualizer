@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cisco Spaces WiFi7 Tango Deployments</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Manrope:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Cisco Spaces · UWB Tango</p>
+        <h1>Cisco Spaces WiFi7 Customer Footprint</h1>
+        <p class="lede">
+          Live view of Spaces customers running 9176/9178 APs. Zoom for floor-by-floor context and filter to hone in on the deployments that matter.
+        </p>
+        <div class="pill-tray">
+          <span class="pill">World map</span>
+          <span class="pill">Floor drill-down</span>
+          <span class="pill">Connector & WLC coverage</span>
+        </div>
+      </div>
+      <div class="hero-stats" id="hero-stats"></div>
+    </header>
+
+    <section class="controls">
+      <div class="control search">
+        <label for="search">Search customer, site, or address</label>
+        <input id="search" type="search" placeholder="e.g. Adidas, London, 9178" />
+      </div>
+      <div class="control select">
+        <label for="region">Region</label>
+        <select id="region"></select>
+      </div>
+      <div class="control select">
+        <label for="vertical">Vertical</label>
+        <select id="vertical"></select>
+      </div>
+      <div class="control toggles">
+        <label>AP models</label>
+        <div class="toggle-row">
+          <label class="chip"><input type="checkbox" id="ap9176" checked>9176</label>
+          <label class="chip"><input type="checkbox" id="ap9178" checked>9178</label>
+        </div>
+      </div>
+      <div class="control slider">
+        <label for="minAps">Min APs per site <span id="minApsValue">0</span></label>
+        <input id="minAps" type="range" min="0" max="200" step="5" value="0" />
+      </div>
+    </section>
+
+    <section class="main">
+      <div id="map"></div>
+      <aside class="panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Selected site</p>
+            <h2 id="panel-title">Nothing selected</h2>
+          </div>
+          <div id="panel-badges" class="badge-row"></div>
+        </div>
+        <div id="panel-body" class="panel-body">
+          <p class="muted">Click a marker or pick from the list to see floor details and AP mix.</p>
+        </div>
+      </aside>
+    </section>
+
+    <section class="list" id="site-list"></section>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

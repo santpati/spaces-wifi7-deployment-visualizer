@@ -1,0 +1,2372 @@
+[
+  {
+    "address": "1",
+    "lat": 53.926540599999996,
+    "lng": 30.33827543664036
+  },
+  {
+    "address": "1 Chome-3-1 Azabudai, Azabudai Hills Mori JP Tower, L11, Suite 11F 106-0041",
+    "lat": 35.660842099999996,
+    "lng": 139.74065174770556
+  },
+  {
+    "address": "1 Churchill PI, London E14 5HU",
+    "lat": 51.5050593,
+    "lng": -0.014314986579911378
+  },
+  {
+    "address": "1 Medical Center Dr",
+    "lat": 43.67568425,
+    "lng": -72.27010182235165
+  },
+  {
+    "address": "1 New Street Square, City of London, London, EC4A 3BF, United Kingdom",
+    "lat": 51.507825,
+    "lng": -0.1341969874173337
+  },
+  {
+    "address": "1 World Wide Way, St. Louis, MO, 63146 USA",
+    "lat": 38.701930450000006,
+    "lng": -90.44903983766369
+  },
+  {
+    "address": "10 Abbot's Walk, Reading, RG1 3HW, United Kingdom",
+    "lat": 51.4565208,
+    "lng": -0.96563955
+  },
+  {
+    "address": "10 Cissbury Ring, Peterborough, PE4 6QH, United Kingdom",
+    "lat": 52.61006625112119,
+    "lng": -0.2698440073943157
+  },
+  {
+    "address": "10 Richard Mark Way, Collinsville, Illinois 62234, United States",
+    "lat": 38.67894485,
+    "lng": -90.01992870151591
+  },
+  {
+    "address": "100 John Marshall Dr, Huntington, WV 25755, USA",
+    "lat": 38.42362575,
+    "lng": -82.42740242682913
+  },
+  {
+    "address": "1000 N 3rd St, Aspen, Colorado 81611, United States",
+    "lat": 39.1760986,
+    "lng": -106.8292058
+  },
+  {
+    "address": "1001 Main Street, Garland, Texas 75040, United States",
+    "lat": 32.916303850000006,
+    "lng": -96.63531170536542
+  },
+  {
+    "address": "1004 N 3rd St, Aspen, Colorado 81611, United States",
+    "lat": 39.1760986,
+    "lng": -106.8292058
+  },
+  {
+    "address": "1007 Hutchins Road, Dallas, Texas 75203, United States",
+    "lat": 32.773978150000005,
+    "lng": -96.80175063267362
+  },
+  {
+    "address": "101 East Washington Street, New Castle, Pennsylvania 16101, United States",
+    "lat": 40.999553750000004,
+    "lng": -80.34890578055285
+  },
+  {
+    "address": "10150 North Ambassador Drive, Kansas City, Missouri 64153, United States",
+    "lat": 39.3022045,
+    "lng": -94.72082795559572
+  },
+  {
+    "address": "10172 102 Street NW, Edmonton, Alberta T5J 0W2, Canada",
+    "lat": 53.5436919,
+    "lng": -113.4911312
+  },
+  {
+    "address": "102 West Parkwood Avenue, Friendswood, Texas 77546, United States",
+    "lat": 30.3571335,
+    "lng": -103.661617
+  },
+  {
+    "address": "10200 Abilites Way, Kansas City, Kansas 66111, United States",
+    "lat": 39.1145319,
+    "lng": -94.81525446725271
+  },
+  {
+    "address": "1032 Mebane Oaks Rd, Mebane, North Carolina 27302, United States",
+    "lat": 35.99320103581601,
+    "lng": -79.26324962113378
+  },
+  {
+    "address": "1035 Alumni Avenue - Np\u0313a\u019b\u0313mqsts I\u0294 Scma\u0294maya\u0294s, Kelowna, British Columbia V1V 3C8, Canada",
+    "lat": 49.9368935,
+    "lng": -119.39323350000001
+  },
+  {
+    "address": "1036 West Juneau Avenue, Milwaukee, Wisconsin 53233, United States",
+    "lat": 43.0440936,
+    "lng": -87.91022406583411
+  },
+  {
+    "address": "1040 East Maple Road, Birmingham, Michigan 48009, United States",
+    "lat": 42.546475650000005,
+    "lng": -83.20646697839304
+  },
+  {
+    "address": "1045 6th Ave, New York, NY 10018",
+    "lat": 40.71994655373493,
+    "lng": -74.00517163236947
+  },
+  {
+    "address": "1050 West Boulevard, Belleville, Illinois 62221, United States",
+    "lat": 41.8708988,
+    "lng": -87.7767955
+  },
+  {
+    "address": "106 Carrigan Dr, Burlington VT 05405",
+    "lat": 44.472896500000004,
+    "lng": -73.15146136645569
+  },
+  {
+    "address": "1060 Diversity Place - Cnt\u0315ux\u02b7liws, Kelowna, British Columbia V1V 3C8, Canada",
+    "lat": 49.937613999999996,
+    "lng": -119.39201855506994
+  },
+  {
+    "address": "1083 Discovery Avenue - Sk\u0313\u04d9\u026cpax\u030c\u04d9x\u030cnum\u0313t, Kelowna, British Columbia V1V 1V8, Canada",
+    "lat": 49.9381281857241,
+    "lng": -119.39872450178336
+  },
+  {
+    "address": "109 North Post Oak Lane, Houston, Texas 77024, United States",
+    "lat": 29.78884915,
+    "lng": -95.4583328532066
+  },
+  {
+    "address": "1099 North Meridian Street, Indianapolis, Indiana 46204, United States",
+    "lat": 39.781861899999996,
+    "lng": -86.15700699997012
+  },
+  {
+    "address": "11-12 Allerton Road, Rugby, CV23 0PA, United Kingdom",
+    "lat": 52.41082805,
+    "lng": -1.3663321395443622
+  },
+  {
+    "address": "1101 Walnut St, Kansas City, Missouri 64106, United States",
+    "lat": 39.10088665,
+    "lng": -94.58169775055556
+  },
+  {
+    "address": "1102 Kingwood Drive, Kingwood, Texas 77339, United States",
+    "lat": 30.049010449999997,
+    "lng": -95.24030615000001
+  },
+  {
+    "address": "111 Monument Cir, Indianapolis, Indiana 46204, United States",
+    "lat": 39.7691068,
+    "lng": -86.15703483933453
+  },
+  {
+    "address": "111 S Wacker Dr #4600, Chicago, IL 60606, USA",
+    "lat": 41.880194599999996,
+    "lng": -87.6363161123167
+  },
+  {
+    "address": "11150 Lindbergh Business Court, Saint Louis, Missouri 63123, United States",
+    "lat": 38.70863975,
+    "lng": -90.31171453683027
+  },
+  {
+    "address": "1138 Alumni Avenue - Np\u0313a\u019b\u0313mqsts I\u0294 Scma\u0294maya\u0294s, Kelowna, British Columbia V1V 1V9, Canada",
+    "lat": 49.9391637,
+    "lng": -119.39591487217814
+  },
+  {
+    "address": "1148 Research Road - S\u019b\u0313a\u0294\u019b\u0313\u0294am T\u04d9 Spax\u030cax\u030ct, Kelowna, British Columbia V1V 1V8, Canada",
+    "lat": 49.93921425,
+    "lng": -119.39841307186015
+  },
+  {
+    "address": "119 Saint Clair Street, Geneva, New York 14456, United States",
+    "lat": 42.85593155,
+    "lng": -76.98570159549769
+  },
+  {
+    "address": "12 Marina Boulevard, Singapore 01, Singapore",
+    "lat": 1.2790316,
+    "lng": 103.8543538
+  },
+  {
+    "address": "12 Moore Drive, Durham, North Carolina 27703, United States",
+    "lat": 35.973209049999994,
+    "lng": -78.89755053748397
+  },
+  {
+    "address": "120 Clifton Springs Professional Park, Clifton Springs, New York 14432, United States",
+    "lat": 42.9617304,
+    "lng": -77.1399757
+  },
+  {
+    "address": "120 Corporate Woods, Rochester, New York 14623, United States",
+    "lat": 43.109448549999996,
+    "lng": -77.62110461866857
+  },
+  {
+    "address": "120 Mcginty Ct, Clemson, South Carolina 29634, United States",
+    "lat": 34.66869155,
+    "lng": -82.83743475607795
+  },
+  {
+    "address": "1200 Locust Street, Des Moines, Iowa 50391, United States",
+    "lat": 41.59120505,
+    "lng": -93.60381863093588
+  },
+  {
+    "address": "121 Adelaide Road, Mt Cook, Wellington 6021, New Zealand",
+    "lat": -41.3050333,
+    "lng": 174.7788384
+  },
+  {
+    "address": "121 Main North Road, Willaston South Australia 5118, Australia",
+    "lat": -34.87830608388064,
+    "lng": 138.60235608377084
+  },
+  {
+    "address": "121 North Loop 1604 West, San Antonio, Texas 78232, United States",
+    "lat": 29.430906722827267,
+    "lng": -98.71084976185958
+  },
+  {
+    "address": "1238 Discovery Avenue - Sk\u0313\u04d9\u026cpax\u030c\u04d9x\u030cnum\u0313t, Kelowna, British Columbia V1V 1V9, Canada",
+    "lat": 49.941282,
+    "lng": -119.40014060759492
+  },
+  {
+    "address": "125 White Spruce Boulevard, Brighton, New York 14623, United States",
+    "lat": 43.1049063,
+    "lng": -77.6170007
+  },
+  {
+    "address": "1250 Discovery Avenue - Sk\u0313\u04d9\u026cpax\u030c\u04d9x\u030cnum\u0313t, Kelowna, British Columbia V1V 1V9, Canada",
+    "lat": 49.9416979,
+    "lng": -119.40155621707672
+  },
+  {
+    "address": "1262 Discovery Avenue - Sk\u0313\u04d9\u026cpax\u030c\u04d9x\u030cnum\u0313t, Kelowna, British Columbia V1V 1V9, Canada",
+    "lat": 49.9419355,
+    "lng": -119.40043147402598
+  },
+  {
+    "address": "12750 Merit Drive, Dallas, Texas 75251, United States",
+    "lat": 32.92216445,
+    "lng": -96.76964042527322
+  },
+  {
+    "address": "128 Argus Ln, Mooresville, North Carolina 28117, United States",
+    "lat": 35.5848596,
+    "lng": -80.8100724
+  },
+  {
+    "address": "1285 122nd Ave NE, Bellevue, Washington 98005, United States",
+    "lat": 47.6215342,
+    "lng": -122.1776838
+  },
+  {
+    "address": "1300 West Liberty Street, Mexico, Missouri 65265, United States",
+    "lat": 39.27356675,
+    "lng": -94.44212177351412
+  },
+  {
+    "address": "1301 East Campbell Road, Richardson, Texas 75081, United States",
+    "lat": 32.975812000000005,
+    "lng": -96.70244312273965
+  },
+  {
+    "address": "1331 East Victor Road, Victor, New York 14564, United States",
+    "lat": 42.971514,
+    "lng": -77.3826555
+  },
+  {
+    "address": "134 Medical Park Road, Mooresville, North Carolina 28117, United States",
+    "lat": 35.5500069,
+    "lng": -80.8512483
+  },
+  {
+    "address": "1341 Dandenong Rd, Chadstone VIC 3148, Australia",
+    "lat": -37.8845118,
+    "lng": 145.0838905
+  },
+  {
+    "address": "135 Corporate Woods, Rochester, New York 14623, United States",
+    "lat": 43.106263049999995,
+    "lng": -77.62179674916783
+  },
+  {
+    "address": "135 East Liberty Street, Wooster, Ohio 44691, United States",
+    "lat": 41.3795005,
+    "lng": -83.6297890246625
+  },
+  {
+    "address": "1351 Utah Highway 284, Ogden, Utah 84403, United States",
+    "lat": 41.22760915,
+    "lng": -111.97158588729289
+  },
+  {
+    "address": "13517 Rodeo Lane, Oklahoma City, Oklahoma 73142, United States",
+    "lat": 35.4653376,
+    "lng": -97.5128162
+  },
+  {
+    "address": "137 Professional Park Drive, Mooresville, North Carolina 28117, United States",
+    "lat": 35.5572384,
+    "lng": -80.8552064
+  },
+  {
+    "address": "1375 West 38th Avenue, Vancouver, British Columbia V6M 1R3, Canada",
+    "lat": 49.23728755,
+    "lng": -123.13667261179404
+  },
+  {
+    "address": "14 Hartham Place North, Porirua City Centre, Porirua 5022, New Zealand",
+    "lat": -41.1361944,
+    "lng": 174.8404568
+  },
+  {
+    "address": "14 Mcneil Street, Peppermint Grove, Western Australia 6011, Australia",
+    "lat": -31.9946792,
+    "lng": 115.76760371334544
+  },
+  {
+    "address": "14250 South Black Bob Road, Olathe, Kansas 66062, United States",
+    "lat": 38.8695775,
+    "lng": -94.761831837997
+  },
+  {
+    "address": "1438 Oates Drive, Mesquite, Texas 75150, United States",
+    "lat": 32.84099875,
+    "lng": -96.62480027638877
+  },
+  {
+    "address": "1444 Illinois Highway 13, Belleville, Illinois 62221, United States",
+    "lat": 42.0627374,
+    "lng": -87.9356217
+  },
+  {
+    "address": "14533 Rosecrans Avenue, La Mirada, California 90638, United States",
+    "lat": 33.90786535,
+    "lng": -118.00204827727086
+  },
+  {
+    "address": "1455 Research Forest Drive, Shenandoah, Texas 77380, United States",
+    "lat": 30.177065873976563,
+    "lng": -95.46273339044079
+  },
+  {
+    "address": "146 Medical Park Road, Mooresville, North Carolina 28117, United States",
+    "lat": 35.5503213,
+    "lng": -80.8523032
+  },
+  {
+    "address": "146 University Pl, Burlington VT 05405",
+    "lat": 44.4737365,
+    "lng": -73.19414679705882
+  },
+  {
+    "address": "14615 Rosecrans Avenue, La Mirada, California 90638, United States",
+    "lat": 33.90786535,
+    "lng": -118.00204827727086
+  },
+  {
+    "address": "14631 Rosecrans Avenue, La Mirada, California 90638, United States",
+    "lat": 33.90786535,
+    "lng": -118.00204827727086
+  },
+  {
+    "address": "14653 Rosecrans Avenue, La Mirada, California 90638, United States",
+    "lat": 33.90786535,
+    "lng": -118.00204827727086
+  },
+  {
+    "address": "1475 West 10th Avenue, Vancouver, British Columbia V6H 3H8, Canada",
+    "lat": 49.261847700000004,
+    "lng": -123.11901303119873
+  },
+  {
+    "address": "1477 Edvalson St, Ogden, UT 84408, USA",
+    "lat": 41.19481122721143,
+    "lng": -111.94503405537148
+  },
+  {
+    "address": "150 West Talisman Drive, Salt Lake City, Utah 84116, United States",
+    "lat": 40.790066100000004,
+    "lng": -111.97989846185591
+  },
+  {
+    "address": "1518 Legacy Drive Suite 100 and 200, Frisco, Texas 75033, United States",
+    "lat": 33.1132669,
+    "lng": -96.83880009928572
+  },
+  {
+    "address": "15201 Century Drive suite 602, Dearborn, Michigan 48120, United States",
+    "lat": 42.30867524097545,
+    "lng": -83.18514973786093
+  },
+  {
+    "address": "1539 Chouteau Avenue, Saint Louis, Missouri 63103",
+    "lat": 38.64049075,
+    "lng": -90.2349158234557
+  },
+  {
+    "address": "155 Corporate Woods, Rochester, New York 14623, United States",
+    "lat": 43.1070614,
+    "lng": -77.622376
+  },
+  {
+    "address": "157 Professional Park Drive, Mooresville, North Carolina 28117, United States",
+    "lat": 35.5582151,
+    "lng": -80.8567202
+  },
+  {
+    "address": "15710 South Green Road, Olathe, Kansas 66061, United States",
+    "lat": 38.88201735,
+    "lng": -94.81347078924935
+  },
+  {
+    "address": "1630 Long Pond Road, Greece, New York 14626, United States",
+    "lat": 43.18575415,
+    "lng": -77.69939541394238
+  },
+  {
+    "address": "1652 Innovation Drive, Kelowna, British Columbia V1V 2Y4, Canada",
+    "lat": 49.908358596355065,
+    "lng": -119.46126740856727
+  },
+  {
+    "address": "171 Fairview Road, Mooresville, North Carolina 28117, United States",
+    "lat": 35.5493162,
+    "lng": -80.85379414446592
+  },
+  {
+    "address": "1713 S 1110 E, Heber City, Utah 84032, United States",
+    "lat": 40.506463,
+    "lng": -111.4132963
+  },
+  {
+    "address": "175 Corporate Woods, Rochester, New York 14623, United States",
+    "lat": 43.107818449999996,
+    "lng": -77.62184061819822
+  },
+  {
+    "address": "175 Sully's Trail, Pittsford, New York 14534, United States",
+    "lat": 43.055578350000005,
+    "lng": -77.46978252461402
+  },
+  {
+    "address": "179 Sully's Trail, Pittsford, New York 14534, United States",
+    "lat": 43.0549234,
+    "lng": -77.46975695243438
+  },
+  {
+    "address": "17950 Preston Road, Dallas, Texas 75252, United States",
+    "lat": 32.88068695,
+    "lng": -96.79717517352759
+  },
+  {
+    "address": "18 Upper Main Drive, Kenepuru, Porirua 5022, New Zealand",
+    "lat": -41.1402428,
+    "lng": 174.8342837
+  },
+  {
+    "address": "1803 Georgetown Road, Danville, Illinois 61832, United States",
+    "lat": 40.13296190658867,
+    "lng": -87.56085156048547
+  },
+  {
+    "address": "18676 Sonterra Place, San Antonio, Texas 78258, United States",
+    "lat": 29.641603,
+    "lng": -98.48881960621564
+  },
+  {
+    "address": "18755 Stone Oak Parkway, San Antonio, Texas 78258, United States",
+    "lat": 29.6493885,
+    "lng": -98.4513456
+  },
+  {
+    "address": "1900 Main Street, Houston, Texas 77002, United States",
+    "lat": 29.7499764,
+    "lng": -95.370681
+  },
+  {
+    "address": "1901 Chouteau, Saint Louis, Missouri 63103",
+    "lat": 38.62251355,
+    "lng": -90.20922524008833
+  },
+  {
+    "address": "191 North Main Street, Wellsville, New York 14895, United States",
+    "lat": 42.1224538,
+    "lng": -77.9507897
+  },
+  {
+    "address": "1935 Lower Mall - St\u0259yw\u0259t, Vancouver, British Columbia V6T 1X1, Canada",
+    "lat": 49.26387405,
+    "lng": -123.25765294553105
+  },
+  {
+    "address": "1938 Wesbrook Mall, Vancouver, British Columbia V6T 1W3, Canada",
+    "lat": 49.248463799999996,
+    "lng": -123.23415546149084
+  },
+  {
+    "address": "196 North Street, Geneva, New York 14456, United States",
+    "lat": 42.876326649999996,
+    "lng": -76.9886079403918
+  },
+  {
+    "address": "1960 Innovation Blvd, Wichita, Kansas 67208, United States",
+    "lat": 37.688723350000004,
+    "lng": -97.3410471
+  },
+  {
+    "address": "1991 Balsley Road, Seneca Falls, New York 13148, United States",
+    "lat": 42.907423,
+    "lng": -76.83284643664916
+  },
+  {
+    "address": "2 Janefield Dr, Bundoora VIC 3083, Australia",
+    "lat": -37.681095,
+    "lng": 145.07074931447
+  },
+  {
+    "address": "200 Mill Road, Fairhaven, Massachusetts 02719, United States",
+    "lat": 41.6506295,
+    "lng": -70.88131985966523
+  },
+  {
+    "address": "200 North Street, Geneva, New York 14456, United States",
+    "lat": 42.87675675,
+    "lng": -76.98910808802177
+  },
+  {
+    "address": "200 Public Sq, Cleveland, Ohio 44113, United States",
+    "lat": 41.4999675,
+    "lng": -81.69182703948738
+  },
+  {
+    "address": "2001 Maguire Blvd, Columbia, MO 65201",
+    "lat": 38.9178989,
+    "lng": -92.29000702595232
+  },
+  {
+    "address": "2001 Maguire Boulevard, Columbia, Missouri 65201, United States",
+    "lat": 38.93181940808437,
+    "lng": -92.28984005969377
+  },
+  {
+    "address": "201 West Bird Street, Hamilton, Missouri 64644, United States",
+    "lat": 39.744246143333825,
+    "lng": -94.00052304337862
+  },
+  {
+    "address": "201 West Main Street, Honey Grove, Texas 75446, United States",
+    "lat": 29.6869387,
+    "lng": -97.11002464883668
+  },
+  {
+    "address": "202 Williamson Road, Mooresville, North Carolina 28117, United States",
+    "lat": 35.5910421,
+    "lng": -80.8736465
+  },
+  {
+    "address": "2034 Lower Mall - St\u0259yw\u0259t, Vancouver, British Columbia V6T 1Z2, Canada",
+    "lat": 49.26467555,
+    "lng": -123.25658739097176
+  },
+  {
+    "address": "208 Nueces Street, Austin, Texas 78701, United States",
+    "lat": 30.27469115,
+    "lng": -97.74051712256421
+  },
+  {
+    "address": "2080 West Mall - Sme:Nt\u00e1s\u0259m, Vancouver, British Columbia V6T 1Z2, Canada",
+    "lat": 49.26448245,
+    "lng": -123.25512293398964
+  },
+  {
+    "address": "21 E Main St, Bay City, Michigan 48708, United States",
+    "lat": 43.5912824,
+    "lng": -83.8923526
+  },
+  {
+    "address": "2100 South Oak Street, Champaign, Illinois 61820, United States",
+    "lat": 40.089508800000004,
+    "lng": -88.24031885
+  },
+  {
+    "address": "2101 Abrams Road, Dallas, Texas 75214, United States",
+    "lat": 32.93029065,
+    "lng": -96.81959470598377
+  },
+  {
+    "address": "2106 Georgetown Road, Speedway, Indiana 46224, United States",
+    "lat": 39.79487355,
+    "lng": -86.23988022560277
+  },
+  {
+    "address": "2125 East Mall, Vancouver, British Columbia V6T 1Z4, Canada",
+    "lat": 49.28266485,
+    "lng": -123.0990096874036
+  },
+  {
+    "address": "2194 Health Sciences Mall, Vancouver, British Columbia V6T 1Z6, Canada",
+    "lat": 49.26480085,
+    "lng": -123.2468390367338
+  },
+  {
+    "address": "220 Market Avenue South, Canton, Ohio 44702, United States",
+    "lat": 40.8080169,
+    "lng": -81.37303073380724
+  },
+  {
+    "address": "220 W Main St, Louisville, Kentucky 40202, United States",
+    "lat": 38.256052100000005,
+    "lng": -85.75453463869997
+  },
+  {
+    "address": "2212 Delaney Avenue, Wilmington, North Carolina 28403, United States",
+    "lat": 34.2249827,
+    "lng": -77.86907743744479
+  },
+  {
+    "address": "2214 North Town Line Road, Ovid, New York 14521, United States",
+    "lat": 42.6805455,
+    "lng": -76.8188915
+  },
+  {
+    "address": "222 South Main Street, Bowling Green, Ohio 43402, United States",
+    "lat": 41.3795005,
+    "lng": -83.6297890246625
+  },
+  {
+    "address": "222 Touring Blvd, Lititz, PA, USA",
+    "lat": 40.17232215,
+    "lng": -76.31289521452106
+  },
+  {
+    "address": "225 West Randolph, 225 W Randolph St, Chicago, Illinois 60606, United States",
+    "lat": 41.8841159,
+    "lng": -87.6347971659253
+  },
+  {
+    "address": "2285 Franklin Road, Bloomfield Hills, Michigan 48302, United States",
+    "lat": 42.60631425,
+    "lng": -83.28577049078433
+  },
+  {
+    "address": "2301 Erwin Road, Durham, North Carolina 27705, United States",
+    "lat": 36.007021300000005,
+    "lng": -78.93734788335824
+  },
+  {
+    "address": "2323 Ross Avenue, Dallas, Texas 75201, United States",
+    "lat": 32.811118750000006,
+    "lng": -96.79450365524134
+  },
+  {
+    "address": "2325 16 W Ave, Vancouver, British Columbia V6K 3B5, Canada",
+    "lat": 49.29086345,
+    "lng": -123.1453972652196
+  },
+  {
+    "address": "2360 New York Highway 89, Seneca Falls, New York 13148, United States",
+    "lat": 42.909228,
+    "lng": -76.79842948796332
+  },
+  {
+    "address": "24 Infirmary Street, Carlisle, CA2 7AF, United Kingdom",
+    "lat": 54.89599145,
+    "lng": -2.955682341890777
+  },
+  {
+    "address": "24 Upper Main Drive, Elsdon-Kenepuru, Porirua 5022, New Zealand",
+    "lat": -41.1404606,
+    "lng": 174.8316568
+  },
+  {
+    "address": "24 Upper Main Drive, Kenepuru, Porirua 5022, New Zealand",
+    "lat": -41.1404606,
+    "lng": 174.8316568
+  },
+  {
+    "address": "2400 South Clinton Avenue, Rochester, New York 14618, United States",
+    "lat": 43.1126865,
+    "lng": -77.5952851
+  },
+  {
+    "address": "2408 Cedar Springs Road, Dallas, Texas 75201, United States",
+    "lat": 32.89651945,
+    "lng": -97.0465220537124
+  },
+  {
+    "address": "2424 Bay Area Boulevard, Houston, Texas 77058, United States",
+    "lat": 29.580676699999998,
+    "lng": -95.09699967166483
+  },
+  {
+    "address": "2424 Merrick Street, Fort Worth, Texas 76107, United States",
+    "lat": 32.7360382,
+    "lng": -97.39902708191245
+  },
+  {
+    "address": "2460 North Jasper Street, Decatur, Illinois 62526, United States",
+    "lat": 39.8375982,
+    "lng": -88.95437682118597
+  },
+  {
+    "address": "2465 Creve Coeur Mill Road, Maryland Heights, Missouri 63043, United States",
+    "lat": 38.7403617,
+    "lng": -90.4571924
+  },
+  {
+    "address": "2468 Old Dorsett Road, Maryland Heights, Missouri 63043, United States",
+    "lat": 38.7302787,
+    "lng": -90.4608212
+  },
+  {
+    "address": "25 Massachusetts Avenue Northwest, Washington, District of Columbia 20001, United States",
+    "lat": 38.8984492,
+    "lng": -77.01035425625001
+  },
+  {
+    "address": "25 South River Road, Bedford, New Hampshire 03110, United States",
+    "lat": 42.9632765,
+    "lng": -71.4796886
+  },
+  {
+    "address": "250 Glen Street, Glens Falls, New York 12801, United States",
+    "lat": 43.3103633,
+    "lng": -73.6460263
+  },
+  {
+    "address": "250 West Main Street, Lexington, Kentucky 40507, United States",
+    "lat": 38.04757465,
+    "lng": -84.4990662798202
+  },
+  {
+    "address": "2601 Georgetown Road, Speedway, Indiana 46224, United States",
+    "lat": 39.796393220922354,
+    "lng": -86.23966408657849
+  },
+  {
+    "address": "262 East Cascade Avenue, River Falls, Wisconsin 54022, United States",
+    "lat": 44.8531036,
+    "lng": -92.62516668938198
+  },
+  {
+    "address": "2655 North Martin Luther King Jr Drive, Decatur, Illinois 62526, United States",
+    "lat": 43.0533654,
+    "lng": -87.9141172
+  },
+  {
+    "address": "2670 Kaslo Street, Vancouver, British Columbia V5M 4T5, Canada",
+    "lat": 49.28067325,
+    "lng": -123.03259993824989
+  },
+  {
+    "address": "2706 Oak Lawn Avenue, Dallas, Texas 75219, United States",
+    "lat": 32.809102100000004,
+    "lng": -96.81518855056522
+  },
+  {
+    "address": "275 West 13th Street, Indianapolis, Indiana 46202, United States",
+    "lat": 39.7861986,
+    "lng": -86.1579348
+  },
+  {
+    "address": "28 Upper Main Drive, Elsdon-Kenepuru, Porirua 5022, New Zealand",
+    "lat": -41.14066635938705,
+    "lng": 174.83225074542904
+  },
+  {
+    "address": "28.2",
+    "lat": 40.70784945,
+    "lng": -74.00898179042723
+  },
+  {
+    "address": "2800 West 7th Street, Fort Worth, Texas 76107, United States",
+    "lat": 32.7513912,
+    "lng": -97.35683025314302
+  },
+  {
+    "address": "2801 Quebec Street, Vancouver, British Columbia V5T 3A8, Canada",
+    "lat": 49.25997595,
+    "lng": -123.1034104197282
+  },
+  {
+    "address": "2900 North Loop West Suite 200, Houston, Texas 77092, United States",
+    "lat": 29.80528985,
+    "lng": -95.44815559072086
+  },
+  {
+    "address": "3 Huntington Quadrangle, Melville, New York 11747, United States",
+    "lat": 40.77324,
+    "lng": -73.4204793290939
+  },
+  {
+    "address": "3 Willmore Lane, Lake Ozark, Missouri 65049, United States",
+    "lat": 38.1915326,
+    "lng": -92.6441154
+  },
+  {
+    "address": "30 Corporate Woods, Rochester, New York 14623, United States",
+    "lat": 43.1078038,
+    "lng": -77.6190704
+  },
+  {
+    "address": "300 Minnesota Avenue Southwest, Willmar, Minnesota 56201, United States",
+    "lat": 45.1219492,
+    "lng": -95.0435373
+  },
+  {
+    "address": "300 Norman Drive, Jefferson City, Missouri 65109, United States",
+    "lat": 38.579219800000004,
+    "lng": -92.17298000355086
+  },
+  {
+    "address": "301 Becker Avenue Southwest, Willmar, Minnesota 56201, United States",
+    "lat": 45.120095449999994,
+    "lng": -95.04525115440364
+  },
+  {
+    "address": "303 Pittsfield Road, Mount Sterling, Illinois 62353, United States",
+    "lat": 39.98005100932095,
+    "lng": -90.75938799424888
+  },
+  {
+    "address": "305 South Hickory Street, Dexter, Missouri 63841, United States",
+    "lat": 36.78655850749172,
+    "lng": -89.95326557414697
+  },
+  {
+    "address": "307 Research Drive, Durham, North Carolina 27710, United States",
+    "lat": 35.973209049999994,
+    "lng": -78.89755053748397
+  },
+  {
+    "address": "31 Waymouth Street, Adelaide South Australia 5000, Australia",
+    "lat": -34.9079418,
+    "lng": 138.57380042679154
+  },
+  {
+    "address": "310 East 51st Avenue, Vancouver, British Columbia V5X 1C6, Canada",
+    "lat": 49.2442084,
+    "lng": -123.0459222
+  },
+  {
+    "address": "320 East Cascade Avenue, River Falls, Wisconsin 54022, United States",
+    "lat": 44.853407649999994,
+    "lng": -92.62339406863941
+  },
+  {
+    "address": "320 South 7th Street, Quincy, Illinois 62301, United States",
+    "lat": 41.8787419,
+    "lng": -87.6337584
+  },
+  {
+    "address": "3297 University Way - Nwists\u0259nma\u0294maya\u0294tn, Kelowna, British Columbia V1V 1V8, Canada",
+    "lat": 49.94036455,
+    "lng": -119.39529714571918
+  },
+  {
+    "address": "33 Colchester Ave, Burlington VT 05405",
+    "lat": 44.4798945,
+    "lng": -73.19794037222513
+  },
+  {
+    "address": "330 East Cascade Avenue, River Falls, Wisconsin 54022, United States",
+    "lat": 44.8542167,
+    "lng": -92.6226832
+  },
+  {
+    "address": "3320 Ridgecrest Dr, Midland, Michigan 48642, United States",
+    "lat": 43.61600475,
+    "lng": -84.1868326769547
+  },
+  {
+    "address": "3348 University Way - Nwists\u0259nma\u0294maya\u0294tn, Kelowna, British Columbia V1V 1V7, Canada",
+    "lat": 49.94026048491442,
+    "lng": -119.39163904345371
+  },
+  {
+    "address": "33743 King Road, Abbotsford, British Columbia V2S 8J5, Canada",
+    "lat": 49.026865650000005,
+    "lng": -122.37081068687385
+  },
+  {
+    "address": "33780 King Road, Abbotsford, British Columbia V2S 7M9, Canada",
+    "lat": 49.03077155,
+    "lng": -122.28836002591171
+  },
+  {
+    "address": "345 West 13th Street, Manhattan, New York, New York 10014, United States",
+    "lat": 40.7400248,
+    "lng": -74.0050617
+  },
+  {
+    "address": "359 Cumberland Street Central Dunedin",
+    "lat": -45.8722061,
+    "lng": 170.507831
+  },
+  {
+    "address": "36 Jackson's Row, Manchester, M2 5WD, United Kingdom",
+    "lat": 53.5148082,
+    "lng": -2.336998
+  },
+  {
+    "address": "360 Cumberland Street, Dunedin Central, Dunedin 9016, New Zealand",
+    "lat": -45.86943755,
+    "lng": 170.50873339614014
+  },
+  {
+    "address": "3650 Cisco Way, San Jose, California 95134, United States",
+    "lat": 37.408387950000005,
+    "lng": -121.92738294855391
+  },
+  {
+    "address": "367 East Main Street, Waterloo, New York 13165, United States",
+    "lat": 42.9044375,
+    "lng": -76.84759396761297
+  },
+  {
+    "address": "369 East Main Street, Waterloo, New York 13165, United States",
+    "lat": 42.9040892,
+    "lng": -76.84570446996057
+  },
+  {
+    "address": "3700 Preemption Road, Watkins Glen, New York 14891, United States",
+    "lat": 42.336380500000004,
+    "lng": -76.92504880603917
+  },
+  {
+    "address": "3800 Matlock Road, Arlington, Texas 76015, United States",
+    "lat": 32.75587245,
+    "lng": -97.07171503023999
+  },
+  {
+    "address": "385 20th Street, Huntington, West Virginia 25703, United States",
+    "lat": 38.43280093755361,
+    "lng": -82.38987353846984
+  },
+  {
+    "address": "387 North Maria Avenue, Saint Paul, Minnesota 55106, United States",
+    "lat": 44.95642695,
+    "lng": -93.10306871961981
+  },
+  {
+    "address": "3880 Hulen Street, Fort Worth, Texas 76107, United States",
+    "lat": 32.7225339,
+    "lng": -97.38755694875854
+  },
+  {
+    "address": "392 S Prospect St, Burlington VT 05405",
+    "lat": 44.4757073,
+    "lng": -73.2199458
+  },
+  {
+    "address": "3939 Central Campus Dr, Ogden, Utah 84403, United States",
+    "lat": 41.1916254,
+    "lng": -111.9437261150994
+  },
+  {
+    "address": "4 West Genesee Street, Clyde, New York 14433, United States",
+    "lat": 43.0842665,
+    "lng": -76.87176254970015
+  },
+  {
+    "address": "400 North Maria Avenue, Saint Paul, Minnesota 55106, United States",
+    "lat": 44.95642695,
+    "lng": -93.10306871961981
+  },
+  {
+    "address": "400 West Capitol Avenue, Little Rock, Arkansas 72201, United States",
+    "lat": 34.74511475,
+    "lng": -92.27547180735547
+  },
+  {
+    "address": "400 White Spruce Boulevard, Rochester, New York 14623, United States",
+    "lat": 43.10275455,
+    "lng": -77.61743657403491
+  },
+  {
+    "address": "4000 Greenbriar Drive, Houston, Texas 77098, United States",
+    "lat": 29.7300625,
+    "lng": -95.41316971746323
+  },
+  {
+    "address": "402 Seyborn Avenue, Hillsboro, Illinois 62049, United States",
+    "lat": 39.13708273959642,
+    "lng": -89.49144343789852
+  },
+  {
+    "address": "403 North Maria Avenue, Saint Paul, Minnesota 55106, United States",
+    "lat": 44.95642695,
+    "lng": -93.10306871961981
+  },
+  {
+    "address": "405 2nd Street Southwest, Willmar, Minnesota 56201, United States",
+    "lat": 45.1132581,
+    "lng": -95.0380388
+  },
+  {
+    "address": "406 East Main Street, Niles, Michigan 49120, United States",
+    "lat": 41.8373155,
+    "lng": -86.2523395
+  },
+  {
+    "address": "409 East Monument Avenue, Dayton, Ohio 45402, United States",
+    "lat": 39.7662409,
+    "lng": -84.20118788794426
+  },
+  {
+    "address": "410 Clifton Springs Professional Park, Clifton Springs, New York 14432, United States",
+    "lat": 42.9617304,
+    "lng": -77.1399757
+  },
+  {
+    "address": "4131 Parklake Avenue, Raleigh, North Carolina 27612, United States",
+    "lat": 35.8182117,
+    "lng": -78.6987821368702
+  },
+  {
+    "address": "417 E. Statesville Ave, Mooresville, North Carolina 28115, United States",
+    "lat": 35.5803884,
+    "lng": -80.8046106
+  },
+  {
+    "address": "418 North Main Street, Penn Yan, New York 14527, United States",
+    "lat": 42.67107905,
+    "lng": -77.0612986115811
+  },
+  {
+    "address": "420 Cross Keys Office Park, Fairport, New York 14450, United States",
+    "lat": 43.0705874,
+    "lng": -77.433698
+  },
+  {
+    "address": "43 Colchester Ave, Burlington VT 05405",
+    "lat": 44.47943115,
+    "lng": -73.1981242538186
+  },
+  {
+    "address": "4300 North Belt Line Road, Irving, Texas 75038, United States",
+    "lat": 32.88813925,
+    "lng": -96.98666727245035
+  },
+  {
+    "address": "4400 West 16th Street, Speedway, Indiana 46222, United States",
+    "lat": 39.79624785,
+    "lng": -86.23481603684723
+  },
+  {
+    "address": "4481 Munson Street Northwest, Canton, Ohio 44718, United States",
+    "lat": 40.84600949459287,
+    "lng": -81.42404279713459
+  },
+  {
+    "address": "44975 Keith Wilson Road, Chilliwack, British Columbia V2R 3C3, Canada",
+    "lat": 49.10395721270556,
+    "lng": -121.96017095677554
+  },
+  {
+    "address": "45 Mason Street, Geneva, New York 14456, United States",
+    "lat": 42.8775051,
+    "lng": -76.98751446446559
+  },
+  {
+    "address": "45 Raiha Street, Elsdon-Kenepuru, Porirua 5022, New Zealand",
+    "lat": -41.1400823,
+    "lng": 174.829145
+  },
+  {
+    "address": "4500 Northwest River Park Drive, Riverside, Missouri 64150, United States",
+    "lat": 39.177059650000004,
+    "lng": -94.6251270719291
+  },
+  {
+    "address": "4545 West 16th Street, Speedway, Indiana 46222, United States",
+    "lat": 39.7855562,
+    "lng": -86.2317415
+  },
+  {
+    "address": "4550 E 53rd St, Davenport, Iowa 52807, United States",
+    "lat": 41.5235808,
+    "lng": -90.5770967
+  },
+  {
+    "address": "4551 West 16th Street, Speedway, Indiana 46222, United States",
+    "lat": 39.7855527,
+    "lng": -86.2319793
+  },
+  {
+    "address": "4660 Sweetwater Boulevard, Sugar Land, Texas 77479, United States",
+    "lat": 29.58874073683421,
+    "lng": -95.6343037052165
+  },
+  {
+    "address": "46C4+4F5, Lyngh\u00e1ls, 110 Reykjav\u00edk, Iceland",
+    "lat": 64.1206284667116,
+    "lng": -21.791476081286003
+  },
+  {
+    "address": "4700 60th St SE, Grand Rapids, MI 49512, USA",
+    "lat": 43.0028055,
+    "lng": -85.5531038
+  },
+  {
+    "address": "4750 West 16th Street, Speedway, Indiana 46222, United States",
+    "lat": 39.79624785,
+    "lng": -86.23481603684723
+  },
+  {
+    "address": "49 Mein Street, Newtown, Wellington 6021, New Zealand",
+    "lat": -41.3103458,
+    "lng": 174.7820613
+  },
+  {
+    "address": "5 Serpells Lane, Hawthorn Victoria 3122, Australia",
+    "lat": -37.82258384663219,
+    "lng": 145.03707388187436
+  },
+  {
+    "address": "50 Millard Street, Dundee, New York 14837, United States",
+    "lat": 42.5256035,
+    "lng": -76.98728751470588
+  },
+  {
+    "address": "500 East Pratt Street, Baltimore, Maryland 21202, United States",
+    "lat": 39.287220899999994,
+    "lng": -76.6082107689528
+  },
+  {
+    "address": "501 East Lafayette Street, Bloomington Heights, Illinois 61701, United States",
+    "lat": 40.49242715,
+    "lng": -88.99042108232373
+  },
+  {
+    "address": "502 2nd Street Southwest, Willmar, Minnesota 56201, United States",
+    "lat": 45.11785662834019,
+    "lng": -95.04420695377424
+  },
+  {
+    "address": "5049 West Park Boulevard, Plano, Texas 75093, United States",
+    "lat": 33.04675485,
+    "lng": -96.814098766682
+  },
+  {
+    "address": "51 Clift Street, Carlisle, CA2 7PQ, United Kingdom",
+    "lat": 54.608248,
+    "lng": -5.935521202257082
+  },
+  {
+    "address": "5111 San Felipe Street, Houston, Texas 77056, United States",
+    "lat": 29.749898549999997,
+    "lng": -95.4641307408612
+  },
+  {
+    "address": "517 Alcove Rd, Mooresville, North Carolina 28117, United States",
+    "lat": 35.5848596,
+    "lng": -80.8100724
+  },
+  {
+    "address": "525 Water Street, Port Huron, Michigan 48060, United States",
+    "lat": 42.9798694,
+    "lng": -82.4315022
+  },
+  {
+    "address": "5402 Victoria Drive, Vancouver, British Columbia V5P 3V8, Canada",
+    "lat": 49.2357066,
+    "lng": -123.06508875523298
+  },
+  {
+    "address": "5477 152 Street, Surrey, British Columbia V3S 5A5, Canada",
+    "lat": 49.1033643,
+    "lng": -122.8023789
+  },
+  {
+    "address": "57 Pilmuir Street, Hutt Central, Lower Hutt 5010, New Zealand",
+    "lat": -41.2055223,
+    "lng": 174.9245262
+  },
+  {
+    "address": "5704 North Northwood Road, Kansas City, Missouri 64151, United States",
+    "lat": 39.198609000000005,
+    "lng": -94.63302690123456
+  },
+  {
+    "address": "5801 Northwest Waukomis Drive, Lake Waukomis, Missouri 64151, United States",
+    "lat": 39.18464654722067,
+    "lng": -94.60593222645612
+  },
+  {
+    "address": "5900 Memorial Drive, Houston, Texas 77007, United States",
+    "lat": 29.7656149,
+    "lng": -95.44192020671281
+  },
+  {
+    "address": "5th Street, Speedway, Indiana 46222, United States",
+    "lat": 39.79118156409667,
+    "lng": -86.23312374611312
+  },
+  {
+    "address": "60 Corporate Woods, Rochester, New York 14623, United States",
+    "lat": 43.108325300000004,
+    "lng": -77.61954415031309
+  },
+  {
+    "address": "60 Red Jacket Street, Dansville, New York 14437, United States",
+    "lat": 42.55244965,
+    "lng": -77.69582909045587
+  },
+  {
+    "address": "60 State Highway a, Wellsville, Missouri 63384, United States",
+    "lat": 39.0719844,
+    "lng": -91.5701623
+  },
+  {
+    "address": "60 Weldon Parkway, Maryland Heights, Missouri 63043, United States",
+    "lat": 38.7079393,
+    "lng": -90.4399405
+  },
+  {
+    "address": "601 08th St, Pawnee, Illinois 62558, United States",
+    "lat": 39.66043275,
+    "lng": -89.5914334
+  },
+  {
+    "address": "601 Elmwood Avenue, Rochester, New York 14620, United States",
+    "lat": 43.1228215,
+    "lng": -77.6235852
+  },
+  {
+    "address": "6100 S Yale Ave, Tulsa, Oklahoma 74136, United States",
+    "lat": 36.0731061,
+    "lng": -95.92296125490236
+  },
+  {
+    "address": "6133 University Boulevard, Vancouver, British Columbia V6T 1Z1, Canada",
+    "lat": 49.26655335,
+    "lng": -123.24983897521201
+  },
+  {
+    "address": "620 West Gillespie Street, Aspen, Colorado 81611, United States",
+    "lat": 39.19742762092254,
+    "lng": -106.82548968020143
+  },
+  {
+    "address": "625 South Garfield Avenue, Traverse City, Michigan 49686, United States",
+    "lat": 44.755807450000006,
+    "lng": -85.59469248629011
+  },
+  {
+    "address": "6330 Davis Boulevard, North Richland Hills, Texas 76180, United States",
+    "lat": 32.8425413,
+    "lng": -97.22969899703563
+  },
+  {
+    "address": "636 Greenwich Street, New York, New York 10014, United States",
+    "lat": 40.7313039,
+    "lng": -74.008083
+  },
+  {
+    "address": "6363 Walker Lane, Alexandria, Virginia 22310, United States",
+    "lat": 38.76876505,
+    "lng": -77.15700392769412
+  },
+  {
+    "address": "6400 North 10th Street, STE E, McAllen, Texas 78504, United States",
+    "lat": 26.2601507,
+    "lng": -98.21973248199308
+  },
+  {
+    "address": "6434 North Hanley Road, Berkeley, Missouri 63134, United States",
+    "lat": 38.7199632,
+    "lng": -90.3156124
+  },
+  {
+    "address": "645 7th Street East, Saint Paul, Minnesota 55106, United States",
+    "lat": 44.9491877,
+    "lng": -93.0956358
+  },
+  {
+    "address": "6450 State Rd Mm, House Springs, Missouri 63051, United States",
+    "lat": 38.4089431,
+    "lng": -90.570125
+  },
+  {
+    "address": "650 Pre-Emption Road, Geneva, New York 14456, United States",
+    "lat": 42.8628606,
+    "lng": -77.0098758
+  },
+  {
+    "address": "6500 Northwest Klamm Drive, Kansas City, Missouri 64151, United States",
+    "lat": 39.2134565,
+    "lng": -94.65876966036811
+  },
+  {
+    "address": "655 9th St, Des Moines, IA 50309, USA",
+    "lat": 41.5862706,
+    "lng": -93.6250492
+  },
+  {
+    "address": "664 East 6th Street, Saint Paul, Minnesota 55106, United States",
+    "lat": 44.9491877,
+    "lng": -93.0956358
+  },
+  {
+    "address": "6720 Tom Watson Parkway, Kansas City, Missouri 64151, United States",
+    "lat": 39.21183585,
+    "lng": -94.66018508470333
+  },
+  {
+    "address": "677 King Street, Charleston, South Carolina 29403, United States",
+    "lat": 32.7840902,
+    "lng": -79.93800236532961
+  },
+  {
+    "address": "690 7th Street East, Saint Paul, Minnesota 55106, United States",
+    "lat": 44.9491877,
+    "lng": -93.0956358
+  },
+  {
+    "address": "7 Central Way, Workington, CA14 2NB, United Kingdom",
+    "lat": 54.644731094611096,
+    "lng": -3.5456057933116933
+  },
+  {
+    "address": "7 Easton Oval, Columbus, Ohio 43219, United States",
+    "lat": 40.04293255,
+    "lng": -82.9066102315271
+  },
+  {
+    "address": "70 Mason Street, Geneva, New York 14456, United States",
+    "lat": 42.878142,
+    "lng": -76.98660598154521
+  },
+  {
+    "address": "700 7th Street East, Saint Paul, Minnesota 55106, United States",
+    "lat": 44.95722495,
+    "lng": -93.07410360237671
+  },
+  {
+    "address": "7001 Boulevard 26, North Richland Hills, Texas 76180, United States",
+    "lat": 32.8425413,
+    "lng": -97.22969899703563
+  },
+  {
+    "address": "7001 Mount Rushmore Road, Rapid City, South Dakota 57702, United States",
+    "lat": 44.0179385,
+    "lng": -103.25361200689863
+  },
+  {
+    "address": "705 North Baker, Edina, Missouri 63537, United States",
+    "lat": 40.174430698015875,
+    "lng": -92.178600888524
+  },
+  {
+    "address": "7064 W Route 150, Edwards, Illinois 61528, United States",
+    "lat": 40.74767975111779,
+    "lng": -89.75343895863752
+  },
+  {
+    "address": "710 9th St, Des Moines, IA 50392, USA",
+    "lat": 41.58933795,
+    "lng": -93.62993341145261
+  },
+  {
+    "address": "7100 North Chatham Avenue, Kansas City, Missouri 64151, United States",
+    "lat": 39.22282815,
+    "lng": -94.64395329815636
+  },
+  {
+    "address": "711 High St, Des Moines, IA 50392, USA",
+    "lat": 41.59033975,
+    "lng": -93.6739331468359
+  },
+  {
+    "address": "7111 Security Boulevard, Windsor Mill, Maryland 21244, United States",
+    "lat": 39.3120068,
+    "lng": -76.7566919
+  },
+  {
+    "address": "721 South 18th Street, Saint Louis, Missouri 63103, United States",
+    "lat": 38.62812185,
+    "lng": -90.20802618861528
+  },
+  {
+    "address": "724 Boardman Poland Road, Boardman, Ohio 44512, United States",
+    "lat": 41.0251227,
+    "lng": -80.6420810096154
+  },
+  {
+    "address": "73 Gawber Road, Barnsley, S75 2PX, United Kingdom",
+    "lat": 53.5449537,
+    "lng": -1.525699010001763
+  },
+  {
+    "address": "75 Mason Street, Geneva, New York 14456, United States",
+    "lat": 40.705140650000004,
+    "lng": -74.00797833903508
+  },
+  {
+    "address": "750 Park St, Des Moines, IA 50392, USA",
+    "lat": 41.56891485,
+    "lng": -93.6607467081383
+  },
+  {
+    "address": "7500 San Felipe Street Suite 125, Houston, Texas 77063, United States",
+    "lat": 29.75077425,
+    "lng": -95.50225346815407
+  },
+  {
+    "address": "7500 San Felipe Street Suite 345, Houston, Texas 77063, United States",
+    "lat": 29.75077425,
+    "lng": -95.50225346815407
+  },
+  {
+    "address": "7703 Northwest Barry Road, Kansas City, Missouri 64153, United States",
+    "lat": 39.22024035,
+    "lng": -94.50132959956012
+  },
+  {
+    "address": "772 County Street, Taunton, Massachusetts 02780, United States",
+    "lat": 41.90118835,
+    "lng": -71.07023318247397
+  },
+  {
+    "address": "7775 West Country View Lane, Herriman, Utah 84096, United States",
+    "lat": 40.56618965,
+    "lng": -111.93141990696546
+  },
+  {
+    "address": "789 Pre-Emption Road, Geneva, New York 14456, United States",
+    "lat": 42.863039,
+    "lng": -77.01001574424242
+  },
+  {
+    "address": "798 Oak Ridge Farm Highway, Mooresville, North Carolina 28115, United States",
+    "lat": 35.607886,
+    "lng": -80.798856
+  },
+  {
+    "address": "8 Centenary Square, Birmingham, B1 2EA, United Kingdom",
+    "lat": 52.4784122,
+    "lng": -1.9111114
+  },
+  {
+    "address": "800 Meadows Road, Aspen, Colorado 81611, United States",
+    "lat": 39.703347199999996,
+    "lng": -106.72745325
+  },
+  {
+    "address": "801 Park St, Des Moines, IA 50309, USA",
+    "lat": 41.5874276,
+    "lng": -93.62854731153017
+  },
+  {
+    "address": "81 Carrigan Dr, Burlington VT 05405",
+    "lat": 44.47774135,
+    "lng": -73.21464765053605
+  },
+  {
+    "address": "8100 North Congress Avenue, Kansas City, Missouri 64152, United States",
+    "lat": 39.22024035,
+    "lng": -94.50132959956012
+  },
+  {
+    "address": "815 Richards Street, Vancouver, British Columbia V6B 6P6, Canada",
+    "lat": 49.280673,
+    "lng": -123.1238363
+  },
+  {
+    "address": "818 Northgate Drive, Ponte Vedra Beach, Florida 32082, United States",
+    "lat": 30.2002169,
+    "lng": -81.3806867
+  },
+  {
+    "address": "82 University Pl, Burlington VT 05405",
+    "lat": 44.4737365,
+    "lng": -73.19414679705882
+  },
+  {
+    "address": "8214 Westchester Drive, Dallas, Texas 75225, United States",
+    "lat": 32.862882400000004,
+    "lng": -96.80600759992618
+  },
+  {
+    "address": "8223 Morel Drive, Indianapolis, Indiana 46256, United States",
+    "lat": 39.9023938,
+    "lng": -85.99908341041235
+  },
+  {
+    "address": "8315 County Road 459, Portland, Missouri 65077, United States",
+    "lat": 38.74138233989398,
+    "lng": -91.78310013339959
+  },
+  {
+    "address": "8350 Parkline Boulevard, Orlando, Florida 32809, United States",
+    "lat": 28.4407046,
+    "lng": -81.44566885088605
+  },
+  {
+    "address": "8420 North University Street, Peoria, Illinois 61615, United States",
+    "lat": 40.6901616,
+    "lng": -89.5902483
+  },
+  {
+    "address": "845 Meadows Road, Aspen, Colorado 81611, United States",
+    "lat": 39.20131775,
+    "lng": -106.8316442560521
+  },
+  {
+    "address": "870 Meadows Road, Aspen, Colorado 81611, United States",
+    "lat": 39.703347199999996,
+    "lng": -106.72745325
+  },
+  {
+    "address": "90 Seagram Drive, Waterloo, Ontario N2L 3B7, Canada",
+    "lat": 43.471222527342256,
+    "lng": -80.53129677369272
+  },
+  {
+    "address": "908 East Houston Street, Cleveland, Texas 77327, United States",
+    "lat": 29.760179,
+    "lng": -95.3693746509527
+  },
+  {
+    "address": "9110 Brooklyn Boulevard, Brooklyn Park, Minnesota 55445, United States",
+    "lat": 45.1004807,
+    "lng": -93.3443585
+  },
+  {
+    "address": "919 Westfall Road, Rochester, New York 14618, United States",
+    "lat": 43.1146489,
+    "lng": -77.5963211
+  },
+  {
+    "address": "9501 North Seymour Avenue, Kansas City, Missouri 64153, United States",
+    "lat": 39.3022045,
+    "lng": -94.72082795559572
+  },
+  {
+    "address": "9655 Katy Freeway Suite 3160, Houston, Texas 77024, United States",
+    "lat": 29.7841799,
+    "lng": -95.5322969
+  },
+  {
+    "address": "Address Unknown",
+    "lat": 51.68778650500893,
+    "lng": -114.56916896527639
+  },
+  {
+    "address": "Advance, North Carolina, United States",
+    "lat": 35.9412851,
+    "lng": -80.4096455
+  },
+  {
+    "address": "Akkermaalsbos 12, 6708 WB Wageningen, Netherlands",
+    "lat": 51.982901,
+    "lng": 5.6617811
+  },
+  {
+    "address": "Albert-Einstein-Stra\u00dfe 8, 49076 Osnabr\u00fcck, Germany ",
+    "lat": 52.2891695,
+    "lng": 8.019250977249516
+  },
+  {
+    "address": "Altona Gate",
+    "lat": -37.82464670062878,
+    "lng": 144.86343575000814
+  },
+  {
+    "address": "Bankstown Central",
+    "lat": -33.915836049999996,
+    "lng": 151.03908239683335
+  },
+  {
+    "address": "Bayside",
+    "lat": 43.1860869,
+    "lng": -87.904897
+  },
+  {
+    "address": "Bernoullistrasse 20, 4056 Basel, Switzerland",
+    "lat": 47.560026,
+    "lng": 7.581506
+  },
+  {
+    "address": "Box Hill Central- North Precinct",
+    "lat": -37.818483099999995,
+    "lng": 145.1204813760279
+  },
+  {
+    "address": "Box Hill Central- South Precinct",
+    "lat": -37.81955995,
+    "lng": 145.12116275673247
+  },
+  {
+    "address": "Broadmeadows",
+    "lat": -37.68305265,
+    "lng": 144.91948587060236
+  },
+  {
+    "address": "Budapest, Gregersen K\u00f6r\u00f6nd, 1095, Hungary",
+    "lat": 47.47013166492141,
+    "lng": 19.071430708587897
+  },
+  {
+    "address": "Cambridge",
+    "lat": 52.2055314,
+    "lng": 0.1186637
+  },
+  {
+    "address": "Catarroja, Valencia, Spain",
+    "lat": 39.4033747,
+    "lng": -0.4028759
+  },
+  {
+    "address": "Chadstone Hotel",
+    "lat": -37.88843875,
+    "lng": 145.08191004400308
+  },
+  {
+    "address": "Chadstone Shopping Centre",
+    "lat": -37.8866236,
+    "lng": 145.08239872867134
+  },
+  {
+    "address": "Chatswood Chase",
+    "lat": -33.7940769,
+    "lng": 151.18589137099872
+  },
+  {
+    "address": "Clinical Services Building, Minerva Street, Wellington, Wellington 6021, New Zealand",
+    "lat": -41.2757324,
+    "lng": 174.777477
+  },
+  {
+    "address": "Colonnades",
+    "lat": -35.142248949999995,
+    "lng": 138.4981182190767
+  },
+  {
+    "address": "Come On In Cafe, 10280 N Torrey Pines Rd, La Jolla, California 92037, United States",
+    "lat": 32.90851515,
+    "lng": -117.24888839447752
+  },
+  {
+    "address": "Congress Center",
+    "lat": 53.5621973,
+    "lng": 9.985205104352886
+  },
+  {
+    "address": "Cornerstone Church, 18755 Stone Oak Pkwy, San Antonio, Texas 78258, United States",
+    "lat": 29.6493885,
+    "lng": -98.4513456
+  },
+  {
+    "address": "Cranbourne Park",
+    "lat": 50.9062291,
+    "lng": -1.3000368
+  },
+  {
+    "address": "DFO Brisbane",
+    "lat": -27.5313339,
+    "lng": 152.94797724903108
+  },
+  {
+    "address": "DFO Essendon",
+    "lat": -37.733363100000005,
+    "lng": 144.90576251865468
+  },
+  {
+    "address": "DFO Homebush",
+    "lat": -33.85536215,
+    "lng": 151.0767502955959
+  },
+  {
+    "address": "DFO Moorabbin",
+    "lat": -37.97126315,
+    "lng": 145.08871325083317
+  },
+  {
+    "address": "DFO South Wharf",
+    "lat": -37.825127800000004,
+    "lng": 144.94914613747622
+  },
+  {
+    "address": "David S. Mack Student Center, Hofstra Univ, Hempstead, New York 11550, United States",
+    "lat": 40.7272895,
+    "lng": -73.55379910547833
+  },
+  {
+    "address": "Deliveries Only, Barnsley, S75 2EP, United Kingdom",
+    "lat": 53.558427876841556,
+    "lng": -1.5010658822704708
+  },
+  {
+    "address": "Dr. Mitterbauer-Stra\u00dfe 3, 4663 Laakirchen, Austria",
+    "lat": 47.9815837,
+    "lng": 13.8229559
+  },
+  {
+    "address": "EIC-Amsterdam",
+    "lat": 52.3657363,
+    "lng": 4.8857425
+  },
+  {
+    "address": "Eastlands",
+    "lat": 52.369820700000005,
+    "lng": -1.2436253964799961
+  },
+  {
+    "address": "Einsteinring 30, 85609 Aschheim, Germany",
+    "lat": 48.149017549999996,
+    "lng": 11.686891319179004
+  },
+  {
+    "address": "Ellenbrook Central",
+    "lat": -31.78222185,
+    "lng": 115.97108887171717
+  },
+  {
+    "address": "Emergency, Hamilton, Ontario L8N 2E2, Canada",
+    "lat": 43.253118650000005,
+    "lng": -79.86920679000508
+  },
+  {
+    "address": "Emporium",
+    "lat": 13.730198999999999,
+    "lng": 100.56889219032846
+  },
+  {
+    "address": "Engineering Lane, Vancouver, British Columbia V6T 1Z4, Canada",
+    "lat": 49.29086345,
+    "lng": -123.1453972652196
+  },
+  {
+    "address": "Engineering Road, Vancouver, British Columbia V6T 1Z4, Canada",
+    "lat": 49.248463799999996,
+    "lng": -123.23415546149084
+  },
+  {
+    "address": "Engineering, Alumni Ave, Kelowna, British Columbia V1V 1V8, Canada",
+    "lat": 49.9395727,
+    "lng": -119.39468529999999
+  },
+  {
+    "address": "Fire Lane, Vancouver, British Columbia V6T 1X7, Canada",
+    "lat": 49.259194,
+    "lng": -122.9640609
+  },
+  {
+    "address": "Food Court @ JCCC, Johnson County Community College, Overland Park, Kansas 66210, United States",
+    "lat": 38.922876099999996,
+    "lng": -94.73064683639171
+  },
+  {
+    "address": "Forum",
+    "lat": 41.891641449999995,
+    "lng": 12.486729586085652
+  },
+  {
+    "address": "Fredrik Selmers Vei 3, 0663 Oslo, Norway",
+    "lat": 59.91494,
+    "lng": 10.801835
+  },
+  {
+    "address": "Fuchsau 5a, 91477 Markt Bibart, Germany",
+    "lat": 49.6477941,
+    "lng": 10.4263507
+  },
+  {
+    "address": "Gage Lobby, 5959 Student Union Boulevard, Vancouver, British Columbia V6T 1Z1, Canada",
+    "lat": 49.26655335,
+    "lng": -123.24983897521201
+  },
+  {
+    "address": "Gasoline Alley, Speedway, Indiana 46222, United States",
+    "lat": 39.7646481,
+    "lng": -86.2356299
+  },
+  {
+    "address": "Gellertstrasse 144, 4052 Basel, Switzerland",
+    "lat": 47.5482134,
+    "lng": 7.617149
+  },
+  {
+    "address": "General Education Building (GEB), 12345 College Blvd, Overland Park, Kansas 66210, United States",
+    "lat": 38.92444905,
+    "lng": -94.73082885692182
+  },
+  {
+    "address": "Grace Neill Building, Wellington Regional Hospital, Wellington, Wellington 6021, New Zealand",
+    "lat": -41.3088882,
+    "lng": 174.78024073264186
+  },
+  {
+    "address": "Gym-Johnson County Community College, 12345 College Blvd, Johnson County Community College, Overland Park, KS 66210, Overland Park, Kansas 66210, United States",
+    "lat": 38.922876099999996,
+    "lng": -94.73064683639171
+  },
+  {
+    "address": "Hall Road, Kenepuru, Porirua 5022, New Zealand",
+    "lat": -41.1203424,
+    "lng": 174.86076132433521
+  },
+  {
+    "address": "Hans-Sommer-Stra\u00dfe 65, 38106 Braunschweig, Germany",
+    "lat": 52.2765041,
+    "lng": 10.541754790418164
+  },
+  {
+    "address": "Hebelstrasse 10, 4056 Basel, Switzerland",
+    "lat": 47.5605882,
+    "lng": 7.5832948
+  },
+  {
+    "address": "Hebelstrasse 15, 4056 Basel, Switzerland",
+    "lat": 47.5606561,
+    "lng": 7.5823554
+  },
+  {
+    "address": "Hebelstrasse 32, 4031 Basel, Switzerland",
+    "lat": 47.5610301,
+    "lng": 7.5814424
+  },
+  {
+    "address": "Hebelstrasse 34, 4056 Basel, Switzerland",
+    "lat": 47.5613011,
+    "lng": 7.5810866
+  },
+  {
+    "address": "Hebelstrasse 75, 4056 Basel, Switzerland",
+    "lat": 47.5619674,
+    "lng": 7.5787557221458774
+  },
+  {
+    "address": "Hebelstrasse 9, 4056 Basel, Switzerland",
+    "lat": 47.5604513,
+    "lng": 7.5830294
+  },
+  {
+    "address": "Hofwiesenstrasse 350, 8050 Z\u00fcrich, Schweiz",
+    "lat": 47.4105455,
+    "lng": 8.5426213
+  },
+  {
+    "address": "Horst-Dassler-Stra\u00dfe 1, 91074 Herzogenaurach, Germany",
+    "lat": 49.58253265,
+    "lng": 10.910488570778325
+  },
+  {
+    "address": "Horton Way, La Mirada, California 90639, United States",
+    "lat": 33.9075592860319,
+    "lng": -118.01357751341239
+  },
+  {
+    "address": "Hospital Dental Clinic, Minerva Street, Wellington, Wellington 6021, New Zealand",
+    "lat": -41.3088882,
+    "lng": 174.78024073264186
+  },
+  {
+    "address": "Hulman Boulevard, Speedway, Indiana 46222, United States",
+    "lat": 39.79624785,
+    "lng": -86.23481603684723
+  },
+  {
+    "address": "Huntington, West Virginia 25701, United States",
+    "lat": 38.415943,
+    "lng": -82.4397206
+  },
+  {
+    "address": "Huntington, West Virginia 25703, United States",
+    "lat": 38.43280093755361,
+    "lng": -82.38987353846984
+  },
+  {
+    "address": "Huntington, West Virginia 25755, United States",
+    "lat": 38.42490373171174,
+    "lng": -82.42396866702467
+  },
+  {
+    "address": "Hutt Hospital X-Ray Department, Lower Hutt, Wellington 5010, New Zealand",
+    "lat": -41.1983826,
+    "lng": 174.937229
+  },
+  {
+    "address": "Hutt Hospital, High Street, Lower Hutt, Wellington 5010, New Zealand",
+    "lat": -41.2047033,
+    "lng": 174.92405293109996
+  },
+  {
+    "address": "IMS Pagoda, Speedway, Indiana 46222, United States",
+    "lat": 39.79624785,
+    "lng": -86.23481603684723
+  },
+  {
+    "address": "IMS Tower Suites, Speedway, Indiana 46222, United States",
+    "lat": 39.803944400000006,
+    "lng": -86.27191074911252
+  },
+  {
+    "address": "ITC at Johnson County Community College, 12345 College Blvd, Overland Park, Kansas 66210, United States",
+    "lat": 38.922876099999996,
+    "lng": -94.73064683639171
+  },
+  {
+    "address": "Indianapolis Motor Speedway Administration Building, 4790 W. 16th Street, Speedway, Indiana 46222, United States",
+    "lat": 39.790318600000006,
+    "lng": -86.23369319174797
+  },
+  {
+    "address": "Industrielaan 40, 3730 Hoeselt, Limburg, Belgium",
+    "lat": 50.86205205,
+    "lng": 5.4930383183006555
+  },
+  {
+    "address": "JCCC Bookstore, 12345 College Blvd, Overland Park, Kansas 66210, United States",
+    "lat": 38.922876099999996,
+    "lng": -94.73064683639171
+  },
+  {
+    "address": "JCCC Hospitality & Culinary Academy (HCA), 12345, Overland Park, Kansas 66210, United States",
+    "lat": 38.92309685,
+    "lng": -94.72652663833509
+  },
+  {
+    "address": "JCCC Small Business Center, Regnier Center, Overland Park, Kansas 66210, United States",
+    "lat": 38.9369489,
+    "lng": -94.72593315874786
+  },
+  {
+    "address": "John Hindle Drive, Kelowna, British Columbia V1V 3C8, Canada",
+    "lat": 49.936680004183806,
+    "lng": -119.39889158945704
+  },
+  {
+    "address": "Karl Johans Gate 20, 0159 Oslo, Norway",
+    "lat": 59.9129,
+    "lng": 10.741507
+  },
+  {
+    "address": "Kenepuru Hospital Maternity Unit, Porirua, Wellington 5022, New Zealand",
+    "lat": -41.1464041,
+    "lng": 174.8345499942012
+  },
+  {
+    "address": "Kenepuru Hospital Pharmacy, Porirua, Wellington 5022, New Zealand",
+    "lat": -41.1464041,
+    "lng": 174.8345499942012
+  },
+  {
+    "address": "King Fahad Road Alared",
+    "lat": 13.45707035,
+    "lng": -16.582754645027933
+  },
+  {
+    "address": "Klingelbergstrasse 23, 4056 Basel, Switzerland",
+    "lat": 47.561509650000005,
+    "lng": 7.580236366452288
+  },
+  {
+    "address": "Legend Oaks Healthcare and Rehabilitation - Sonterra, 18514 Sonterra Pl, San Antonio, Texas 78258, United States",
+    "lat": 29.3462965,
+    "lng": -98.53967710594472
+  },
+  {
+    "address": "Lilla Bommen 13, 411 04 G\u00f6teborg, Sweden",
+    "lat": 57.71252868653921,
+    "lng": 11.966062539799815
+  },
+  {
+    "address": "Main",
+    "lat": 49.9354788,
+    "lng": 9.8058264
+  },
+  {
+    "address": "Mears Way, Speedway, Indiana 46222, United States",
+    "lat": 39.79624785,
+    "lng": -86.23481603684723
+  },
+  {
+    "address": "Messehalle 1",
+    "lat": 48.15180705,
+    "lng": 14.018761193659447
+  },
+  {
+    "address": "Messehalle 11",
+    "lat": 47.4114212,
+    "lng": 8.5497767
+  },
+  {
+    "address": "Messehalle 3",
+    "lat": 51.75020745,
+    "lng": 14.348398906318106
+  },
+  {
+    "address": "Metzger Hall, 13800 Biola Ave, La Mirada, California 90639, United States",
+    "lat": 33.90686,
+    "lng": -118.01521719065124
+  },
+  {
+    "address": "Milevsk\u00e1 2095/5, 140 00 Praha 4-Nusle, \u010cesko",
+    "lat": 50.0485754,
+    "lng": 14.431816
+  },
+  {
+    "address": "Milton Keynes Hospital entrance, Eaglestone, Milton Keynes MK6 4NG, UK",
+    "lat": 52.0260232,
+    "lng": -0.7352438
+  },
+  {
+    "address": "Nascar Garage Area Exit, Speedway, Indiana 46222, United States",
+    "lat": 39.79028106218706,
+    "lng": -86.23805593391266
+  },
+  {
+    "address": "Nerman Museum of Contemporary Art, 12345 College Blvd, Overland Park, Kansas 66210, United States",
+    "lat": 38.9249562,
+    "lng": -94.7268203927265
+  },
+  {
+    "address": "Nettelbosje 1, 9747 AJ Groningen, Netherlands",
+    "lat": 53.2379584,
+    "lng": 6.5358951
+  },
+  {
+    "address": "Northgate",
+    "lat": 39.25679175,
+    "lng": -84.58988229991361
+  },
+  {
+    "address": "Northland",
+    "lat": -35.3755091,
+    "lng": 173.9470106440683
+  },
+  {
+    "address": "Northwest Brush Creek Parkway, Parkville, Missouri 64152, United States",
+    "lat": 39.21613536184144,
+    "lng": -94.7576925
+  },
+  {
+    "address": "Petersgraben 31, 4051 Basel, Switzerland",
+    "lat": 47.5588616,
+    "lng": 7.5845008
+  },
+  {
+    "address": "Pipeline Road, Vancouver, British Columbia V6G 3B3, Canada",
+    "lat": 49.248463799999996,
+    "lng": -123.23415546149084
+  },
+  {
+    "address": "Place Vanier - Korea House, 1935 Lower Mall, Vancouver, British Columbia V6T 1Z2, Canada",
+    "lat": 49.26387405,
+    "lng": -123.25765294553105
+  },
+  {
+    "address": "Place Vanier, Vancouver, British Columbia V6T 1A7, Canada",
+    "lat": 49.2766905,
+    "lng": -123.1120061895052
+  },
+  {
+    "address": "Place Vanier, Vancouver, British Columbia V6T 1Z2, Canada",
+    "lat": 49.2766905,
+    "lng": -123.1120061895052
+  },
+  {
+    "address": "Plaza Pavilion, Speedway, Indiana 46222, United States",
+    "lat": 39.79624785,
+    "lng": -86.23481603684723
+  },
+  {
+    "address": "Pointe aux Sables, Rivi\u00e8re Noire, Mauritius",
+    "lat": -20.172445,
+    "lng": 57.4456179
+  },
+  {
+    "address": "Prime Medical of the Finger Lakes Geneva, 1150 State Route 5 and 20, Geneva, New York 14456, United States",
+    "lat": 42.859995999999995,
+    "lng": -77.03265683608058
+  },
+  {
+    "address": "Problemveien 25, 0372 Oslo, Norway",
+    "lat": 59.944969,
+    "lng": 10.719792
+  },
+  {
+    "address": "Professor Brochs Gate, 7030 Trondheim, Norway",
+    "lat": 63.4145556,
+    "lng": 10.3978007
+  },
+  {
+    "address": "Queen Victoria Build",
+    "lat": -33.8714355,
+    "lng": 151.20666925468225
+  },
+  {
+    "address": "Regnier Center, 12345 College Blvd, Overland Park, Kansas 66210, United States",
+    "lat": 38.922876099999996,
+    "lng": -94.73064683639171
+  },
+  {
+    "address": "Ropata Health, 135 Witako Street, Lower Hutt, Wellington 5010, New Zealand",
+    "lat": -41.2049884,
+    "lng": 174.9268528
+  },
+  {
+    "address": "Ropata Health, 135 Witako Street, Lower Hutt, Wellington 5011, New Zealand",
+    "lat": -41.2049884,
+    "lng": 174.9268528
+  },
+  {
+    "address": "Rua Do Parque Poente, 4705-629 Sequeira, Braga, Portugal",
+    "lat": 41.532163499999996,
+    "lng": -8.479587402134625
+  },
+  {
+    "address": "Rue Du 31-D\u00e9cembre 42, 1207 Gen\u00e8ve, Switzerland",
+    "lat": 46.2021798,
+    "lng": 6.1608426
+  },
+  {
+    "address": "Sandefjordsveien 3",
+    "lat": 59.128679,
+    "lng": 10.219574
+  },
+  {
+    "address": "Scheelev\u00e4gen 15c, 223 63 Lund, Sweden",
+    "lat": 55.71489975479582,
+    "lng": 13.217078530117773
+  },
+  {
+    "address": "Southcoast Laboratory Services - Tobey Hospital, 43 High St, Wareham, Massachusetts 02571, United States",
+    "lat": 41.75565075,
+    "lng": -70.71445356731309
+  },
+  {
+    "address": "Spitalstrasse 1, 4056 Basel, Switzerland",
+    "lat": 47.5624033,
+    "lng": 7.5840436
+  },
+  {
+    "address": "Spitalstrasse 2, 4056 Basel, Switzerland",
+    "lat": 47.5620714,
+    "lng": 7.5845848
+  },
+  {
+    "address": "Spitalstrasse 20, 4056 Basel, Switzerland",
+    "lat": 47.5597233,
+    "lng": 7.580911
+  },
+  {
+    "address": "Sportbaren, Danska v\u00e4gen 13, Ullared, Halland 311 60, Sweden",
+    "lat": 57.13384875,
+    "lng": 12.71390074558261
+  },
+  {
+    "address": "Sports Centre De Bongerd, Bornsesteeg 2, Wageningen, Gelderland 6708 PE, Netherlands",
+    "lat": 51.981584,
+    "lng": 5.6653744
+  },
+  {
+    "address": "St Joseph's Healthcare - Fontbonne Building, Hamilton, Ontario L8N 2G9, Canada",
+    "lat": 43.221391999999994,
+    "lng": -79.77400340697056
+  },
+  {
+    "address": "Stadionplein 10, 1076 CM Amsterdam, Netherlands",
+    "lat": 52.34352141510771,
+    "lng": 4.856924129685406
+  },
+  {
+    "address": "States",
+    "lat": 39.7837304,
+    "lng": -100.445882
+  },
+  {
+    "address": "Sternenfeldstrasse 8, 4127 Birsfelden, Switzerland",
+    "lat": 47.55635223929078,
+    "lng": 7.633218460245238
+  },
+  {
+    "address": "Stowmarket, Suffolk, England, United Kingdom",
+    "lat": 52.1878147,
+    "lng": 0.9973428
+  },
+  {
+    "address": "Strada Carlo Pisacane 1, 43121 Parma Parma, Italy",
+    "lat": 44.8035425,
+    "lng": 10.3283342
+  },
+  {
+    "address": "Subway, 3333 University Way, Okanagan Campus, Kelowna, British Columbia V1V 1V8, Canada",
+    "lat": 49.94217525,
+    "lng": -119.39902819775307
+  },
+  {
+    "address": "Talbot East, 13800 Biola Ave, La Mirada, California 90639, United States",
+    "lat": 33.90686,
+    "lng": -118.01521719065124
+  },
+  {
+    "address": "Telus Studio Theatre, 6265 Crescent Rd., Vancouver, British Columbia V6T 1Z2, Canada",
+    "lat": 49.2697484,
+    "lng": -123.25510825259983
+  },
+  {
+    "address": "The Galeries",
+    "lat": -33.872642400000004,
+    "lng": 151.20760756307504
+  },
+  {
+    "address": "The Glen",
+    "lat": -37.8763923,
+    "lng": 145.16513728127524
+  },
+  {
+    "address": "The Strand",
+    "lat": -36.8485305,
+    "lng": 174.7793378
+  },
+  {
+    "address": "Therapies Department - Hutt Hospital, Lower Hutt, Wellington 5010, New Zealand",
+    "lat": -41.2125751,
+    "lng": 174.9057626
+  },
+  {
+    "address": "This Building has no coordinates.",
+    "lat": 21.0188114,
+    "lng": 105.8344813110372
+  },
+  {
+    "address": "This Site has no coordinates.",
+    "lat": 38.9007466,
+    "lng": -76.9908415
+  },
+  {
+    "address": "Trades Road, Kenepuru, Porirua 5022, New Zealand",
+    "lat": -41.1203424,
+    "lng": 174.86076132433521
+  },
+  {
+    "address": "Tunnel 6 (6th Street), Speedway, Indiana 46222, United States",
+    "lat": 39.79624785,
+    "lng": -86.23481603684723
+  },
+  {
+    "address": "UBC Centre For Interactive Research On Sustainability (CIRS), 2260 West Mall, Vancouver, British Columbia V6T 1Z4, Canada",
+    "lat": 49.2620261,
+    "lng": -123.25307801347793
+  },
+  {
+    "address": "UBC Information Technology, 6356 Agriculture Road, Vancouver, British Columbia V6T 1Z2, Canada",
+    "lat": 49.2654452,
+    "lng": -123.2554449372837
+  },
+  {
+    "address": "University Way, Abbotsford, British Columbia V2S 8C6, Canada",
+    "lat": 53.892566200000005,
+    "lng": -122.81471592125548
+  },
+  {
+    "address": "Untere Waldpl\u00e4tze 18, 70569 Stuttgart, Germany",
+    "lat": 48.73121165,
+    "lng": 9.086022441545477
+  },
+  {
+    "address": "V6B 3K9, Vancouver, British Columbia, Canada",
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  {
+    "address": "V7W 1R8, West Vancouver, British Columbia, Canada",
+    "lat": 49.248463799999996,
+    "lng": -123.23415546149084
+  },
+  {
+    "address": "Via Albuzzi 43, 21100 Varese Varese, Italy",
+    "lat": 45.7232108,
+    "lng": 8.8062816
+  },
+  {
+    "address": "Via Cristoforo Colombo 3, 10070 Robassomero Turin, Italy",
+    "lat": 45.17841765425346,
+    "lng": 7.596023690984723
+  },
+  {
+    "address": "Via Del Macello - Schlachthofstra\u00dfe 30, 39100 Bolzano South Tyrol, Italy",
+    "lat": 46.4932148,
+    "lng": 11.3616272
+  },
+  {
+    "address": "Via Santa Maria 11, 10122 Torino Turin, Italy",
+    "lat": 45.0722615,
+    "lng": 7.6769025
+  },
+  {
+    "address": "Viale Della Costituzione 33, 38122 Trento Trentino, Italy",
+    "lat": 46.0609953,
+    "lng": 11.1149698
+  },
+  {
+    "address": "Volkoff Lane, Vancouver, British Columbia V6T 1Z2, Canada",
+    "lat": 49.29086345,
+    "lng": -123.1453972652196
+  },
+  {
+    "address": "WLU Athletics Complex, 75 University Ave. W., Waterloo, Ontario N2L 3B3, Canada",
+    "lat": 43.4727989,
+    "lng": -80.52808627925782
+  },
+  {
+    "address": "Waffenplatz 1, 6490 Andermatt, Switzerland",
+    "lat": 46.638028750000004,
+    "lng": 8.59338637645536
+  },
+  {
+    "address": "Wageningen UR Gebouw 116 (wisselgebouw), Akkersmaalbos 12, Wageningen, Gelderland 6708 WB, Netherlands",
+    "lat": 51.982901,
+    "lng": 5.6617811
+  },
+  {
+    "address": "Ward 6 - Medical Wards, Wellington Regional Hospital, Wellington, Wellington 6021, New Zealand",
+    "lat": -41.3088882,
+    "lng": 174.78024073264186
+  },
+  {
+    "address": "Weiberndorf 6, 6380 St. Johann in Tirol, Austria",
+    "lat": 47.510365500000006,
+    "lng": 12.408907076693533
+  },
+  {
+    "address": "West Coast Suites, 5959 Student Union Boulevard, Vancouver, British Columbia V6T 1Z1, Canada",
+    "lat": 49.26655335,
+    "lng": -123.24983897521201
+  },
+  {
+    "address": "Yardley Hall, Overland Park, Kansas 66210, United States",
+    "lat": 38.9535331,
+    "lng": -94.71965600117787
+  },
+  {
+    "address": "Yrkesskulevegen 20, 2920 Leira I Valdres, Norway",
+    "lat": 60.9685557,
+    "lng": 9.3075592
+  },
+  {
+    "address": "via Carlo Ottavio Cornaggia 10, 20123 Milano Milano, Italy",
+    "lat": 45.4585174,
+    "lng": 9.1858698
+  }
+]
